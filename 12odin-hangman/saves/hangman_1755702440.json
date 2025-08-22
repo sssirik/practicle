@@ -1,0 +1,10 @@
+{
+  "secret_word": "endless",
+  "guessed_letters": [
+    "a",
+    "s",
+    "d"
+  ],
+  "wrong_guesses": 1,
+  "timestamp": "2025-08-20 18:07:20"
+}
